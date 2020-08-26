@@ -17,10 +17,10 @@ Tested On:
 		>google-cloud-vision: pip install google-cloud-vision 
 
 ### Input Image:
-![images/image_1.png](images/image_1.png)
+![images/image_4.png](images/image_4.png)
 
 ### Text Detected Image
-![Results/image_1_ocr.png](Results/image_1_ocr.png)
+![Results/image_4_ocr.png](Results/image_4_ocr.png)
 
 ### Result
 
